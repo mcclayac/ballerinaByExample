@@ -1,0 +1,9 @@
+[project]
+org-name="bigman"
+version="0.1.0"
+
+[build-options]
+# cloud = "docker"
+cloud = "k8s" 
+
+
